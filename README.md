@@ -1,7 +1,10 @@
 # Practica_github
-HEAD
+
 Veronika
 
 Facundo
+
+natalia
+
 Ivan Gonzalez
 
