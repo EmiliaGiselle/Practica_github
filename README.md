@@ -1,6 +1,7 @@
 # Practica_github
 
 
+
 Facundo
 
 
@@ -8,5 +9,13 @@ Facundo
 
 
 Facundo
+
+Veronika
+
+Facundo
+
+natalia
+
+
 Ivan Gonzalez
 
