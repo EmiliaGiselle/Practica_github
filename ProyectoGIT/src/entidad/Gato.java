@@ -28,6 +28,11 @@ public class Gato {
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
+    public Gato(String color, String nombre) {
+        this.color = color;
+        this.nombre = nombre;
+    }
     
     
 }
